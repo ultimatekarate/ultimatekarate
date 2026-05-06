@@ -1,5 +1,7 @@
 Math, Rust, and LLM governance. 
 
+About: My day job is writing CRUD code in Python. This is where I play.
+
 phalanx — tamper-proof video evidence mobile app. This is my flagship project.
 
 These projects are offshoots of Phalanx:
