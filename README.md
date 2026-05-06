@@ -1,6 +1,10 @@
-Math, Rust, and LLM governance. 
+# Math, Rust, and LLM governance. 
 
-About: My day job is writing CRUD code in Python. This is where I play.
+## About
+
+My day job is writing CRUD code in Python. This is where I play.
+
+## Projects
 
 phalanx — tamper-proof video evidence mobile app. This is my flagship project.
 
