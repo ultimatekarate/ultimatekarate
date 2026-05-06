@@ -1,8 +1,6 @@
-# Math, Rust, and LLM governance. 
-
 ## About
 
-My day job is writing CRUD code in Python. This is where I play.
+Math, Rust, and LLM governance.  My day job is writing CRUD code in Python. This is where I play.
 
 ## Projects
 
