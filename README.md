@@ -15,8 +15,8 @@ These projects are offshoots of Phalanx:
 - coalition — MCP shim wiring basis, idiom, and feedback together for Claude Code.
 
 ### (Useful?) Math Things
-I have become obsessed with lifting invariants into the Rust compiler. I don't expect to find anything universally applicable, but I have found some interesting things. 
+Inspired by Phalanx's compile-time stability proof. I have become obsessed with lifting invariants into the Rust compiler. I don't expect to find anything universally applicable, but I have found some interesting things. 
 
-- moonshot — Compile-time-specialized Bayesian inference for embedded targets. Stable Rust, no DSL, no runtime VM. Inspired by Phalanx's compile-time stability proof.
+- moonshot — Compile-time-specialized Bayesian inference for embedded targets. Stable Rust, no DSL, no runtime VM. 
 - fulcrum — Majorization theory applied to load balancing. This is the cleanest application I have found so far.
 - algibberish — My initial plan was to implement the full Bourbaki tower over two trait generics. I settled on a toy CRDT with some light compile time enforcement.  
